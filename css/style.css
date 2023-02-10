@@ -247,3 +247,38 @@ h6 {
 .line-break-8 {
   margin-bottom: 30px;
 }
+
+/* subscribe section start  */
+.subscribe {
+  margin: 0 315px;
+}
+
+.subscribe-title {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.subscribe-subtitle {
+  font-size: 18px;
+  text-align: center;
+}
+
+.line-break-9 {
+  margin-bottom: 50px;
+}
+
+.subscribe-box {
+  background-color: #fce7b0;
+  padding: 80px 188px;
+  text-align: center;
+}
+
+.subscribe-field {
+  width: 275px;
+  padding: 23px 15px;
+  border: 0;
+  border-radius: 5px;
+  margin-right: 0;
+}
