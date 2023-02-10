@@ -282,3 +282,26 @@ h6 {
   border-radius: 5px;
   margin-right: 0;
 }
+
+/* footer start  */
+footer {
+  margin-top: 130px;
+  height: 180px;
+  padding: 45px 600px;
+  background-color: #0b0d17;
+  text-align: center;
+}
+
+.footer-title {
+  font-family: "Lobster", cursive;
+  color: #fce7b0;
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+.footer-subtitle {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
