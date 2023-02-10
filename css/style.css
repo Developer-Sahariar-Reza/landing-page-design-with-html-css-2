@@ -153,3 +153,67 @@ h6 {
 .line-break-4 {
   margin-top: 30px;
 }
+
+/* donation plan section start  */
+
+.donation-plan {
+  margin: 0 160px;
+}
+
+.donation-plan-title {
+  font-weight: 700;
+  font-size: 45px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.donation-plan-subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.line-break-5 {
+  margin-bottom: 50px;
+}
+
+.plan-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+}
+
+.plan-box {
+  border-radius: 5px;
+  padding: 50px 25px;
+  text-align: center;
+}
+
+.box-1 {
+  background-color: #edf5f6;
+}
+
+.box-2 {
+  background-color: #ffeeee;
+}
+
+.box-3 {
+  background-color: #fff4d6;
+}
+
+.plan-icon {
+  margin-bottom: 30px;
+}
+
+.plan-title {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.plan-description {
+  font-weight: 400;
+  text-align: left;
+  line-height: 24px;
+}
